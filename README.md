@@ -13,18 +13,8 @@
 <p align="left">
 </p>
 
-<h3 align="center">Core Skills</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" width="96" height="96"/></a></td>
-      <td align="center"><a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="96" height="96"/></a></td>
-      <td align="center"><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="96" height="96"/></a></td>
-    </tr>
-  </table>
-</div>
+## 🔧 Technologies & 📖 Languages
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/></a>
   <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
@@ -62,3 +52,34 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
   <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"><img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/></a>
 </p>
+
+## Experiences
+
+-Dex
+
+<table>
+    <thead align="center">
+        <tr>
+            <td>Step Staking</td>           
+            <td>Fusion</td>
+            <td>Trading Bot</td>
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="https://github.com/danielkoh2/danielStaking" target="_blank">
+                <img src="https://github.com/danielkoh2/danielStaking/staking.jpg" width="200">
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/danielkoh2/fusion-rust-sdk" target="_blank">
+                <img src="https://github.com/danielkoh2/fusion-rust-sdk/fusion.jpg" width="200">
+            </a>
+        </td> 
+        <td>
+            <a href="https://github.com/danielkoh2/solana-trading-bot" target="_blank">
+                <img src="https://github.com/danielkoh2/solana-trading-bot/trading.gif" width="200">
+            </a>
+        </td>
+    </tr>
+</table>
