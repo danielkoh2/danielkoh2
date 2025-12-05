@@ -68,17 +68,17 @@
     <tr>
         <td>
             <a href="https://github.com/danielkoh2/danielStaking" target="_blank">
-                <img src="https://github.com/danielkoh2/danielStaking/staking.jpg" width="200">
+                <img src="https://github.com/danielkoh2/danielStaking/blob/main/staking.jpg" width="200">
             </a>
         </td>
         <td>
             <a href="https://github.com/danielkoh2/fusion-rust-sdk" target="_blank">
-                <img src="https://github.com/danielkoh2/fusion-rust-sdk/fusion.jpg" width="200">
+                <img src="https://github.com/danielkoh2/fusion-rust-sdk/blob/main/fusion.jpg" width="200">
             </a>
         </td> 
         <td>
             <a href="https://github.com/danielkoh2/solana-trading-bot" target="_blank">
-                <img src="https://github.com/danielkoh2/solana-trading-bot/trading.gif" width="200">
+                <img src="https://github.com/danielkoh2/solana-trading-bot/blob/main/trading.gif" width="200">
             </a>
         </td>
     </tr>
