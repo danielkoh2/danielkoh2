@@ -1,17 +1,9 @@
-<h1 align="center">Hi 👋, I'm Daniel, a full stack blockchain & web developer.</h1>
+<h1 align="center">Hi 👋, I'm a full stack blockchain & web developer.</h1>
 <h3 align="center">A passionate Blockchain Engineer, Trading bot Specialist</h3>
 
-- 💬 Ask me about **Trading Bot on Solana**
-
 - 📫 How to reach me:
-  <div>
-    <strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gmail: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=dan19980109@gmail.com">dan19980109@gmail.com</a></strong>
-    <br>
-    <strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Telegram: &nbsp;&nbsp;<a href="https://t.me/veteran0109">@veteran0109</a></strong>
-  </div>
-
-<p align="left">
-</p>
+  <strong><a href="https://mail.google.com/mail/?view=cm&fs=1&to=dan19980109@gmail.com">dan19980109@gmail.com</a></strong>
+  <strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Telegram: &nbsp;&nbsp;<a href="https://t.me/veteran0109">@veteran0109</a></strong>
 
 ## 🔧 Technologies & 📖 Languages
 
@@ -55,8 +47,6 @@
 
 ## Experiences
 
--Dex
-
 <table>
     <thead align="center">
         <tr>
@@ -77,8 +67,8 @@
             </a>
         </td> 
         <td>
-            <a href="https://github.com/danielkoh2/solana-trading-bot" target="_blank">
-                <img src="https://github.com/danielkoh2/solana-trading-bot/blob/main/trading.gif" width="200">
+            <a href="https://github.com/danielkoh2/copytrading-bot" target="_blank">
+                <img src="https://github.com/danielkoh2/copytrading-bot/blob/main/trading.gif" width="200">
             </a>
         </td>
     </tr>
