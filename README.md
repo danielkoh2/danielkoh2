@@ -4,7 +4,11 @@
 - 💬 Ask me about **Trading Bot on Solana**
 
 - 📫 How to reach me:
-  <div style="margin-left: 3.5em"><strong><a href="mailto:dan19980109@gmail.com">dan19980109@gmail.com</a></strong><br><strong><a href="https://t.me/veteran0109">@veteran0109 (Telegram)</a></strong></div>
+  <div>
+    <strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gmail: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=dan19980109@gmail.com">dan19980109@gmail.com</a></strong>
+    <br>
+    <strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Telegram: &nbsp;&nbsp;<a href="https://t.me/veteran0109">@veteran0109</a></strong>
+  </div>
 
 <p align="left">
 </p>
@@ -12,11 +16,6 @@
 <h3 align="center">Core Skills</h3>
 <div align="center">
   <table>
-    <tr>
-      <td align="center"><img style="margin:0 8px" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=700&pause=200&color=DEA584&center=true&vCenter=true&width=200&lines=Rust" alt="Rust typing" /></td>
-      <td align="center"><img style="margin:0 8px" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=700&pause=200&color=00ADD8&center=true&vCenter=true&width=200&lines=Go" alt="Go typing" /></td>
-      <td align="center"><img style="margin:0 8px" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=700&pause=200&color=3178C6&center=true&vCenter=true&width=300&lines=TypeScript" alt="TypeScript typing" /></td>
-    </tr>
     <tr>
       <td align="center"><a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" width="96" height="96"/></a></td>
       <td align="center"><a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="96" height="96"/></a></td>
