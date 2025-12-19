@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm a full stack blockchain & web developer.</h1>
 <h3 align="center">A passionate Blockchain Engineer, Trading bot Specialist</h3>
 
-- 📫 How to reach me:
-  <strong><a href="https://mail.google.com/mail/?view=cm&fs=1&to=dan19980109@gmail.com">dan19980109@gmail.com</a></strong>
-  <strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Telegram: &nbsp;&nbsp;<a href="https://t.me/veteran0109">@veteran0109</a></strong>
-
 ## 🔧 Technologies & 📖 Languages
 
 <p align="left">
